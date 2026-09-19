@@ -3,3 +3,4 @@ Conteúdos da apresentação "AI Gateways: mais segurança e maior governança e
 
 Exemplos discutidos durante a apresentação:
 * AI Gateway com APISIX + OpenBao (secrets) + OpenTelemetry + Langfuse (Observabilidade) + Microsoft Foundry + Google Vertex: https://github.com/renatogroffe/apisix-ai-gateway-openbao-foundry-vertex-otel-langfuse-grafana-prometheus-dockercompose
+* Implementando guardrails com NVidia NeMo Guardrails: https://github.com/renatogroffe/nvidianemoguardrails-microsoftfoundry-otel-grafana-dockercompose
