@@ -1,2 +1,5 @@
 # ai-gateways_data-ai-saturday-vitoria-2026-09
 Conteúdos da apresentação "AI Gateways: mais segurança e maior governança em suas soluções de Inteligência Artificial!".
+
+Exemplos discutidos durante a apresentação:
+* AI Gateway com APISIX + OpenBao (secrets) + OpenTelemetry + Langfuse (Observabilidade) + Microsoft Foundry + Google Vertex: https://github.com/renatogroffe/apisix-ai-gateway-openbao-foundry-vertex-otel-langfuse-grafana-prometheus-dockercompose
